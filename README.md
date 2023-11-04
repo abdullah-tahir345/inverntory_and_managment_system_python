@@ -33,12 +33,15 @@ Challenges Faced:
 
 Learning during this project:
 
-<br>--How to work with different class
-<br>--How to store data as an object in List and then use this object for data fetching
-<br>--Use of '<i>self</i>' keyword
-<br>--How to use prettytables for receipt
-<br>--Learn more about attributes/variables, instance/objects, parameters/arguments and methods
-<br>--How to use one class in another class
+<br>--How to work with different class.
+<br>--How to store data as an object in List and then use this object for data fetching.
+<br>--Use of '<i>self</i>' keyword.
+<br>--How to use prettytables for receipt.
+<br>--Learn more about attributes/variables, instance/objects, parameters/arguments and methods.
+<br>--How to use one class in another class.
+<br>--How to import modules in python.
+<br>--What is library and module? Here in my project 'prettytable' is the library and product.py or anyother .py file that's imported in another file is a module.
+<br>--How to use one class methods in another class.
 <hr>
 
 Future Plans:
